@@ -1,0 +1,19 @@
+asd | Wumpus Shot: 1 | Gold Collected: 1
+envok | Wumpus Shot: 4 | Gold Collected: 1
+asdasdas | Wumpus Shot: 4 | Gold Collected: 1
+ASdsadsadsadsadsa | Wumpus Shot: 4 | Gold Collected: 1
+en | Wumpus Shot: 3 | Gold Collected: 1
+envaokazna | Wumpus Shot: 2 | Gold Collected: 1
+asd | Wumpus Shot: 4 | Gold Collected: 1
+Vandacskamandacska | Wumpus Shot: 4 | Gold Collected: 1
+asd | Wumpus Shot: 4 | Gold Collected: 1
+asdű | Wumpus Shot: 4 | Gold Collected: 1
+asd | Wumpus Shot: 1 | Gold Collected: 1
+asd | Wumpus Shot: 1 | Gold Collected: 2
+envok | Wumpus Shot: 2 | Gold Collected: 2
+adséadlsaédsa | Wumpus Shot: 2 | Gold Collected: 1
+  <player>
+    <name>oriaskg</name>
+    <wumpusShot>2</wumpusShot>
+    <gold>1</gold>
+  </player>

@@ -1,0 +1,16 @@
+<mapState>
+    <mapSize>6</mapSize>
+    <hero>
+        <row>3</row>
+        <col>4</col>
+        <facingDirection>K</facingDirection>
+    </hero>
+    <map>
+        <row>WWWWWW</row>
+        <row>W_xxPW</row>
+        <row>WUxP_W</row>
+        <row>W_xxHW</row>
+        <row>W_UP_W</row>
+        <row>WWWWWW</row>
+    </map>
+</mapState>
